@@ -1,0 +1,51 @@
+<annotation>
+  <folder> </folder>
+  <filename>s2b0060.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nickel</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1486</xmin>
+      <ymin>1082</ymin>
+      <xmax>2018</xmax>
+      <ymax>1605</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>Nickel</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2639</xmin>
+      <ymin>1029</ymin>
+      <xmax>3171</xmax>
+      <ymax>1543</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
